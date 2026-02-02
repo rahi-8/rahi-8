@@ -53,10 +53,27 @@
 <td width="50%" valign="top">
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rahi-8&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<div align="center">
+
+<!-- Solution 1: Alternative API -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahi-8&show_icons=true&theme=dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
 
 <br/><br/>
+
+<!-- Working Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=rahi-8&theme=dark&hide_border=true" height="165"/>
+
+</div>
+
+<br/><br/>
+
+## 🧠 Competitive Programming
+<!-- যদি account না থাকে চাইলে এই অংশ delete করতে পারো -->
+<img src="https://leetcard.jacoblin.cool/mahbubur_rahman_rahi?theme=dark&font=Fira+Code"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahbubur_rahi&theme=dark"/>
 
 </td>
 
