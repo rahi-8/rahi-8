@@ -1,16 +1,27 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=220&section=header&text=Mahbubur%20Rahman%20Rahi&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38"/>
-
-<h3>Web & App Developer from Bangladesh 🇧🇩</h3>
-
-<img src="https://komarev.com/ghpvc/?username=rahi-8&label=Profile%20Views&color=0d1117&style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Flutter+Developer;Building+Scalable+Web+%26+Mobile+Apps;Clean+Code+%7C+Modern+UI;Always+Learning+New+Tech+🚀"/>
-
+  <h1>Mahbubur Rahman Rahi</h1>
+  
+  <!-- Persistent Identity Badge -->
+  <img src="https://img.shields.io/badge/👨‍💻_Web_&_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Web & App Developer"/>
+  
+  <h3>From Bangladesh 🇧🇩 | Building Digital Solutions</h3>
+  
+  <!-- Additional Persistent Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/🚀_Full_Stack-38BDF8?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" />
+  </div>
+  
+  <br/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Creating+Cross+Platform+Mobile+Apps;Passionate+About+Clean+Code;Always+Learning+New+Tech" />
+  
+  <br/><br/>
+  
+  <!-- Profile Views (Also persistent) -->
+  <img src="https://komarev.com/ghpvc/?username=rahi-8&label=Profile%20Views&color=38BDF8&style=flat-square&labelColor=0d1117" />
 </div>
 
 ---
@@ -70,11 +81,6 @@
 
 <br/><br/>
 
-## 🧠 Competitive Programming
-<!-- যদি account না থাকে চাইলে এই অংশ delete করতে পারো -->
-<img src="https://leetcard.jacoblin.cool/mahbubur_rahman_rahi?theme=dark&font=Fira+Code"/>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahbubur_rahi&theme=dark"/>
-
 </td>
 
 </tr>
@@ -117,18 +123,21 @@
 <!-- ===================== CONNECT ===================== -->
 ## 🔗 Connect With Me
 
+<div align="center">
+
+<!-- Facebook -->
 <a href="https://www.facebook.com/mr.rahi.3">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mahbubur-rahman-rahi-2a6a31250/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mahbuburchowdhury7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+
+</div>
 
 ---
 
-> **“First, solve the problem. Then, write the code.”**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=120&section=footer"/>
