@@ -110,6 +110,17 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahi-8&theme=tokyo-night&hide_border=true"/>
 
 ---
+<div align="center" style="
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+
+  <img src="https://profile-readme-generator.com/assets/snake.svg"
+       alt="Snake animation"
+       width="90%" />
+</div>
 
 <!-- ===================== CV STYLE ===================== -->
 ## 📄 Developer CV Snapshot
