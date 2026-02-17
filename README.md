@@ -139,12 +139,16 @@
 <br/>
 
 <!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg" width="90%">
-  </picture>
+<div align="center" style="
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.05);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+
+  <img src="https://profile-readme-generator.com/assets/snake.svg"
+       alt="Snake animation"
+       width="90%" />
 </div>
 
 <br/>
