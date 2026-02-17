@@ -41,114 +41,107 @@
 - 📫 **Email:** `mahbuburchowdhury7@gmail.com`
 
 <br/>
+<h3 align="center">Languages & Skills</h3>
+<p align="center">     
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js"/>
+</p>
+<p align="center">     
+  <img src="https://skillicons.dev/icons?i=html"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=express"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=discordjs"/>
+</p>
+<hr/>
 
-## 🛠 Skills
+<h3 align="center">Exploring..</h3>
+<p align="center">     
+  <img src="https://skillicons.dev/icons?i=django"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql"/> &nbsp;
+</p>
 
-### 🌐 Web
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<hr/>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode"/>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=figma"/>&nbsp; 
+</p> 
+<hr/>
 
-<br/><br/>
+<h3 align="center">🤝 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahbubur-rahman-rahi-2a6a31250/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mr.rahi.3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+  </a>
+</p>
 
-### 📱 App
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<p align="center">
+  <b>Let’s build something amazing together 🚀</b>
+</p>
+
+<hr/>
 
 </td>
-
+<hr>
 <!-- ========== RIGHT COLUMN ========== -->
 <td width="50%" valign="top">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahi-8&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="100%"/>
+</p>
 
-<!-- Solution 1: Alternative API -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahi-8&show_icons=true&theme=dark&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-8&theme=react&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%"/>
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8" width="100%"/>
+</p>
 
-<br/><br/>
+## 🏆 GitHub Trophies
 
-<!-- Working Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=rahi-8&theme=dark&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahi-8&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
+</p>
 
-</div>
+## 📈 Contribution Graph
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahi-8&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%"/>
+</p>
 
 </td>
-
 </tr>
 </table>
 
----
-
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
+<!-- Snake Animation -->
 <div align="center">
-
-<a href="https://github.com/rahi-8/vaccine">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahi-8&repo=vaccine&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/rahi-8/bubble_-lighting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahi-8&repo=bubble_-lighting&theme=tokyonight"/>
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
+  </picture>
 </div>
 
 ---
 
-<!-- ===================== ACTIVITY ===================== -->
-## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahi-8&theme=tokyo-night&hide_border=true"/>
-
----
-<div align="center" style="
-  backdrop-filter: blur(10px);
-  background: rgba(255,255,255,0.05);
-  border-radius: 20px;
-  padding: 20px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-
-  <img src="https://profile-readme-generator.com/assets/snake.svg"
-       alt="Snake animation"
-       width="90%" />
-</div>
-
-<!-- ===================== CV STYLE ===================== -->
-## 📄 Developer CV Snapshot
-- **Role:** Web & App Developer  
-- **Experience:** Academic + Personal Projects  
-- **Specialty:** REST APIs, UI Design, Full-Stack Apps  
-- **Tools:** Git, GitHub, Postman, Figma  
-
----
-
-<!-- ===================== CONNECT ===================== -->
-## 🔗 Connect With Me
-
-<div align="center">
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/mr.rahi.3">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mahbubur-rahman-rahi-2a6a31250/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=120&section=footer"/>
