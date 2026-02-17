@@ -27,11 +27,9 @@
 ---
 
 <!-- ===================== MAIN CONTENT ===================== -->
-<table width="100%">
-<tr>
 
-<!-- ========== LEFT COLUMN ========== -->
-<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top" align="center">
 
 ## 🧑‍💻 About Me
 - 🌱 **Learning:** Advanced React, Node.js  
@@ -91,59 +89,65 @@
 </p>
 
 <p align="center">
-  <b>Let’s build something amazing together 🚀</b>
+  <b>Let's build something amazing together 🚀</b>
 </p>
 
-<hr/>
-
 </td>
-<hr>
+
 <!-- ========== RIGHT COLUMN ========== -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## 📊 GitHub Analytics
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahi-8&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahi-8&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-8&theme=react&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%"/>
-</p>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-8&theme=react&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="90%"/>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahi-8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=38BDF8" width="90%"/>
+</p>
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahi-8&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahi-8&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=3" width="90%"/>
 </p>
+
+<br/>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahi-8&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahi-8&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=FFFFFF" width="90%"/>
 </p>
 
 </td>
 </tr>
-</table>
+
+
+<br/>
 
 <!-- Snake Animation -->
-<div align="center" style="
-  backdrop-filter: blur(10px);
-  background: rgba(255,255,255,0.05);
-  border-radius: 20px;
-  padding: 20px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-
-  <img src="https://profile-readme-generator.com/assets/snake.svg"
-       alt="Snake animation"
-       width="90%" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rahi-8/rahi-8/output/snake.svg" width="90%">
+  </picture>
 </div>
+
+<br/>
 
 ---
 
