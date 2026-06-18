@@ -32,8 +32,8 @@
 <td width="50%" valign="top" align="center">
 
 ## 🧑‍💻 About Me
-- 🌱 **Learning:** Advanced React, Node.js  
-- 💻 **Stack:** MERN & Flutter  
+- 🌱 **Learning:** Advanced React, Next.js, Node.js, Express.js  
+- 💻 **Stack:** MERN & React-Native 
 - 🎯 **Goal:** Professional Full-Stack Developer  
 - ☕ **Philosophy:** Clean Code > Fast Code  
 - 📫 **Email:** `mahbuburchowdhury7@gmail.com`
