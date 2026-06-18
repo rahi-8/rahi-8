@@ -32,7 +32,7 @@
 <td width="50%" valign="top" align="center">
 
 ## 🧑‍💻 About Me
-- 🌱 **Learning:** Advanced React, Next.js, Node.js, Express.js  
+- 🌱 **Learning:** Advanced Next.js, Node.js, Express.js  
 - 💻 **Stack:** MERN & React-Native 
 - 🎯 **Goal:** Professional Full-Stack Developer  
 - ☕ **Philosophy:** Clean Code > Fast Code  
